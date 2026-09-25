@@ -1,0 +1,18 @@
+# HomeCity
+
+> Nabídky nemovitostí kanceláře HomeCity.
+
+- Web: https://www.hmct.cz/
+
+## Nabídky (11)
+- Prodej rodinného domu 108 m², pozemek 299 m² — Lázně Bohdaneč, 8 650 000 Kč: prodej-rodinneho-domu-108-m2-pozemek-299-m2-1136902220/
+- Prodej rodinného domu 163 m², pozemek 279 m² — Chrudim IV, 5 950 000 Kč: prodej-rodinneho-domu-163-m2-pozemek-279-m2-1341882444/
+- Prodej rodinného domu 152 m², pozemek 1264 m² — Drozdice, 8 500 000 Kč: prodej-rodinneho-domu-152-m2-pozemek-1264-m2-1454186572/
+- Prodej vícegeneračního domu 528 m², pozemek 504 m² — Žirovnice, 5 500 000 Kč: prodej-vicegeneracniho-domu-528-m2-pozemek-504-m2-196616268/
+- Prodej chalupy 230 m², pozemek 790 m² — Svratouch, 3 690 000 Kč: prodej-chalupy-230-m2-pozemek-790-m2-2543862604/
+- Prodej bytu 3+1 63 m² — Hlinsko, 4 190 000 Kč: prodej-bytu-3-1-63-m2-2692599884/
+- Prodej bytu 3+kk 82 m² — Zelené Předměstí, 9 950 000 Kč: prodej-bytu-3-kk-82-m2-3135995980/
+- Prodej rodinného domu 375 m², pozemek 1190 m² — Jablonné nad Orlicí, 5 500 000 Kč: prodej-rodinneho-domu-375-m2-pozemek-1190-m2-3855818828/
+- Prodej chalupy 240 m², pozemek 1934 m² — Záboří, 14 900 000 Kč: prodej-chalupy-240-m2-pozemek-1934-m2-3942244428/
+- Prodej rodinného domu 106 m², pozemek 396 m² — Ronov nad Doubravou, 8 490 000 Kč: prodej-rodinneho-domu-106-m2-pozemek-396-m2-3971862604/
+- Prodej rodinného domu 92 m², pozemek 1205 m² — Lázně Bohdaneč, 5 500 000 Kč: prodej-rodinneho-domu-92-m2-pozemek-1205-m2-4012699724/
